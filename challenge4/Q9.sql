@@ -1,6 +1,6 @@
 /* 9.Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution? The final output contains these fields,
 channel gross_sales_mln percentage */
-with cte_1 as(select c.channel,round(sum(g.gross_price*s.sold_quantity)/1000000,2) as gross_sales_mln
+with cte_1 as(select c.channel,sum(round((g.gross_price*s.sold_quantity)/1000000,2)) as gross_sales_mln
 from fact_sales_monthly s 
 join fact_gross_price g 
 on s.fiscal_year=g.fiscal_year
