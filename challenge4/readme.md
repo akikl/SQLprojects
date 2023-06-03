@@ -10,30 +10,10 @@ Challenge 4 involves analyzing a database of a fictional e-commerce platform. Th
 
 The repository is organized as follows:
 
-- `challenge4_queries.sql`: This file contains the SQL queries written to analyze the database and retrieve the required information.
-- `challenge4_results.csv`: This file contains the output of the queries in CSV format.
-
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/akikl/CodebasicsSQLprojects.git
-Navigate to the challenge4 directory:
-
-2.Navigate to the challenge4 directory:
-
-    cd CodebasicsSQLprojects/challenge4
-
-3.Open your preferred database management system (e.g., MySQL, PostgreSQL, SQL Server).
-
-4.Create a new database or use an existing database to run the SQL queries.
-
-5.Open the challenge4_queries.sql file and execute the queries in your database management system.
-
-    Review the results obtained from the queries in the console or export them to a file.
+- `db.rar`: This file contains the database schema.
+- `ad-hoc-requests.pdf`: This file contains the  10 ad hoc requests for which the business needs insights.
+- 'Q1-Q10.sql': These files contain SQL script with the queries to solve the challenge and generate insights.
+- 'Metadata.txt': This file contains a comprehensive overview of the tables found in database.
 
 ## Contributing
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
