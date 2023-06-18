@@ -16,6 +16,7 @@ VALUES (1, 'Honda', 'Civic', 'Sedan', 30000),
 (6, 'Audi', 'A4', 'Sedan', 48000),
 (7, 'Mercedes', 'C-Class', 'Coupe', 60000),
 (8, 'Nissan', 'Altima', 'Sedan', 26000); 
+-------------------------------
 # Table 2
 CREATE TABLE salespersons (
 salesman_id INT PRIMARY KEY,
@@ -29,6 +30,7 @@ VALUES (1, 'John Smith', 28, 'New York'),
 (2, 'Emily Wong', 35, 'San Fran'),
 (3, 'Tom Lee', 42, 'Seattle'),
 (4, 'Lucy Chen', 31, 'LA');
+--------------------
 # Table 3
 --------------------
 CREATE TABLE sales (
