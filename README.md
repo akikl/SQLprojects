@@ -1,6 +1,6 @@
 # SQL Projects
 
-Welcome to the SQL Projects repository! This repository contains a collection of SQL projects and challenges for data analysis.
+Welcome to my SQL Projects portfolio! This repository showcases a collection of projects where I have utilized MYSQL to analyze and generate insights from data.Each project represents a unique data analysis scenario and demonstrates my skills in leveraging MYSQL capabilities to derive valuable insights.
 
 ## Projects
 
