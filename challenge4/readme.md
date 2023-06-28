@@ -12,7 +12,7 @@ The repository is organized as follows:
 
 - `db.rar`: This file contains the database schema.
 - `ad-hoc-requests.pdf`: This file contains the  10 ad hoc requests for which the business needs insights.
-- 'Q1-Q10.sql': These files contain SQL script with the queries to solve the challenge and generate insights.
+- 'Solutions.sql': These files contain SQL script with the queries to solve the challenge and generate insights.
 - 'Metadata.txt': This file contains a comprehensive overview of the tables found in database.
 
 ## Contributing
