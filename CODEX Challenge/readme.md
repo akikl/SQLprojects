@@ -21,7 +21,7 @@ The repository is organized as follows:
 
   
 ## Presentation
-[Codex Challenge.pdf](https://github.com/akikl/SQLprojects/files/11929771/Codex.Challenge.pdf)
+[Codex Challenge.pdf](https://github.com/akikl/SQLprojects/files/11929960/Codex.Challenge.pdf)
 
 ## Contributing
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
