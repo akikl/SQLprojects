@@ -17,3 +17,7 @@ The repository is organized as follows:
 
 ## Contributing
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
