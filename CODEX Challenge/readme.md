@@ -15,6 +15,10 @@ The repository is organized as follows:
 - 'Solutions.sql': These files contain SQL script with the queries to solve the challenge and generate insights.
 - 'Survey_Questions_and_Response_Options.pdf':This file contains the survey questions and responses.
 - 'Codex Challenge.pdf': This file contains presentation of insights to the marketing team.
+
+## Overview
+![image](https://github.com/akikl/SQLprojects/assets/57595385/6fbfcd08-100d-4620-b5d5-b15313c6edee)
+
   
 ## Presentation
 [Codex Challenge.pdf](https://github.com/akikl/SQLprojects/files/11929771/Codex.Challenge.pdf)
